@@ -1,6 +1,6 @@
 # Agenda_de_Contatos
-Agenda de contatos utilizando lista encadeada
-Atividade:
+\nAgenda de contatos utilizando lista encadeada
+\nAtividade:
 Escreva um programa para armazenar uma agenda de telefones. Cada contato pode ter somente um número de telefone.
 Crie uma classe chamada Contato que tenha dois atributos: nome e telefone.
 Crie uma classe chamada No para armazenar o contato.
